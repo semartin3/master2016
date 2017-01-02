@@ -2,18 +2,16 @@
 \alias{menor.dos.numeros}
 %- Also NEED an '\alias' for EACH other topic documented here.
 \title{
-%%  ~~function to do ... ~~
+	function to obtain the minimun between two numbers
 }
 \description{
-%%  ~~ A concise (1-5 lines) description of what the function does. ~~
+the function compare the two numbers and 
+return the minium
 }
 \usage{
 menor.dos.numeros(n, m)
 }
-%- maybe also 'usage' for other objects documented here.
-\arguments{
-  \item{n}{
-%%     ~~Describe \code{n} here~~
+menor.dos.numeros(2,3)
 }
   \item{m}{
 %%     ~~Describe \code{m} here~~
