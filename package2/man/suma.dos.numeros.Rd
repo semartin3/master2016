@@ -2,10 +2,10 @@
 \alias{suma.dos.numeros}
 %- Also NEED an '\alias' for EACH other topic documented here.
 \title{
-%%  ~~function to do ... ~~
+suma.dos.numeros function para sumar dos numeros
 }
 \description{
-%%  ~~ A concise (1-5 lines) description of what the function does. ~~
+function para sumar dos numeros dados
 }
 \usage{
 suma.dos.numeros(n, m)
